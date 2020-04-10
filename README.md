@@ -1,4 +1,4 @@
-# Course-Project
+# Explanation for the "run_analysize.R" file
 
 1. Name the file "run_analysize.R"
 
